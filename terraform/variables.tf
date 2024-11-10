@@ -8,5 +8,5 @@ variable "app_name" {
 variable "location" {
   type        = string
   description = "Location of Resources"
-  default     = "westeurope"
+  default     = "centralus"
 }
